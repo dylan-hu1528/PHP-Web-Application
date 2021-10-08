@@ -1,6 +1,6 @@
 # CSE3241 Database Systems
 ### Group project: A PHP Web Application
-### Group 2: Yunxuan Hu, Bronson Brown, Yan Zhang
+### Group 2: Yunxuan Hu, Bronson Brown, Bo Chen
 ### Project description
 The BUR Drugs is one of the drug stores that help distributing the COVID vaccines. Vaccines are delivered to BUR in batches. Each batch contains certain quantity of doses with each dose stored in a vial marked with a tracking number. Doses in the same batch are from one vaccine manufacturer (e.g., Pfizer, Moderna, Johnson & Johnson, etc.) with the same expiration date. Any dose not used before it expires will be discarded. These doses will be marked ‘expired’ as opposed to ‘available’ or ‘used’ in the database.
 This project implements a web tool that provides various functions described below.
